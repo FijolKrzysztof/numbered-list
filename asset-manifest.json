@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/numbered-list/static/css/main.9921f0da.chunk.css",
+    "main.js": "/numbered-list/static/js/main.c3d40f20.chunk.js",
+    "main.js.map": "/numbered-list/static/js/main.c3d40f20.chunk.js.map",
+    "runtime-main.js": "/numbered-list/static/js/runtime-main.898e9ae0.js",
+    "runtime-main.js.map": "/numbered-list/static/js/runtime-main.898e9ae0.js.map",
+    "static/css/2.1f208231.chunk.css": "/numbered-list/static/css/2.1f208231.chunk.css",
+    "static/js/2.1e6f08fe.chunk.js": "/numbered-list/static/js/2.1e6f08fe.chunk.js",
+    "static/js/2.1e6f08fe.chunk.js.map": "/numbered-list/static/js/2.1e6f08fe.chunk.js.map",
+    "static/js/3.5f01b680.chunk.js": "/numbered-list/static/js/3.5f01b680.chunk.js",
+    "static/js/3.5f01b680.chunk.js.map": "/numbered-list/static/js/3.5f01b680.chunk.js.map",
+    "index.html": "/numbered-list/index.html",
+    "static/css/2.1f208231.chunk.css.map": "/numbered-list/static/css/2.1f208231.chunk.css.map",
+    "static/css/main.9921f0da.chunk.css.map": "/numbered-list/static/css/main.9921f0da.chunk.css.map",
+    "static/js/2.1e6f08fe.chunk.js.LICENSE.txt": "/numbered-list/static/js/2.1e6f08fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.898e9ae0.js",
+    "static/css/2.1f208231.chunk.css",
+    "static/js/2.1e6f08fe.chunk.js",
+    "static/css/main.9921f0da.chunk.css",
+    "static/js/main.c3d40f20.chunk.js"
+  ]
+}
